@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+/.yarn
+
+# compiled output
+/build
+/dist
+
+# IDE - VSCode
+.vscode
+.cache/
+public/static
+*.marko.js
+
+# lock files
+yarn.lock
+package-lock.json
+
+# .env
+.logs/*.log
+src/logs
+.env
+
+.git
+.git
+.git_folder
+.github
